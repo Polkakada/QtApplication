@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>background.jpg</file>
+        <file>Card.qml</file>
+        <file>cardback.jpg</file>
+        <file>CardSlot.qml</file>
+        <file>Clubs.qml</file>
+        <file>DeactivableButtonStyle.qml</file>
+        <file>Desk.qml</file>
+        <file>Diamond.qml</file>
+        <file>GameCompeleteBanner.qml</file>
+        <file>GameMenu.qml</file>
+        <file>Heart.qml</file>
+        <file>logic.js</file>
+        <file>Spade.qml</file>
+        <file>Suiteicon.qml</file>
+        <file>slow_clap_citizen_kane.gif</file>
+    </qresource>
+</RCC>
